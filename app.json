@@ -9,25 +9,25 @@
   "plan": "heroku-postgresql"
   }],
     "env": {
-      "HEROKU_APP_NAME": {
+      "HEROKU_APP_NAME": {abheesh123456
         "description": "Heroku app name, same as above entered",
         "required": true
       },
-      "HEROKU_API_KEY": {
+      "HEROKU_API_KEY": {d97e66ab-b318-4592-960a-1d44a55c535f
         "description": "Heroku account api key, https://dashboard.heroku.com/account",
         "required": true
       },
-      "ALIVE_MESSAGE": {
+      "ALIVE_MESSAGE": {🥰
 			"description": "Add a message here which you want to see when typing .alive",
 			"required": true,
 			"value": "Hey Guys Toxic Alexa V3 Is Still Alive"
 		},
-		"OWNER_NAME": {
+		"OWNER_NAME": {918137093395
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": true,
 			"value": "TurboMods"
 		},
-		"OWNER_NUMBER": {
+		"OWNER_NUMBER": {918137093395
 			"description": "Add the owner number here",
 			"required": true,
 			"value": "916380260672"
@@ -62,7 +62,7 @@
 			"required": true,
 			"value": "https://telegra.ph/file/a90b046455ab6c7e089e3.jpg"
 		},
-		"BOT_NAME": {
+		"BOT_NAME": {DFA MR JOKER
 			"description": "Enter Your Bot Name",
 			"required": true,
 			"value": "Toxic-Alexa_V3"
@@ -72,20 +72,20 @@
 			"required": true,
 			"value": "Turbo Mods"
 		},
-		"THEME_EMOJI": {
+		"THEME_EMOJI": {🥰
 			"description": "Enter A Emoji For Menu And Other Theme",
 			"required": true,
 			"value": "✨"
 		},
-		"REACT_EMOJI": {
+		"REACT_EMOJI": {🙏
 			"description": "Enter A Emoji For Menu React",
 			"required": true,
 			"value": "🇮🇳"
 		},
-		"OWNER_TAG": {
+		"OWNER_TAG": {OK
 			"description": "Enter Your Number For Owner Tag",
 			"required": true,
-			"value": "916380260672"
+			"value": "918137093395"
 		},
 		"DOCUMENT1": {
 			"description": "If You Dont known What Is This Then Don't Change This",
