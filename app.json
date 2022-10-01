@@ -1,7 +1,7 @@
 {
   "name": "Toxic-Alexa_V3",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/ABHEESHABI/Toxic-Alexa_V3",
+  "repository": "https://github.com/ABHEESHABI/Toxic-Alexa_V3/edit/main/app.json",
   "logo": "https://telegra.ph/file/f2bd807ba0793444fbe09.jpg",
   "keywords": ["nodejs", "toxic-alexa_v3", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
@@ -9,15 +9,15 @@
   "plan": "heroku-postgresql"
   }],
     "env": {
-      "HEROKU_APP_NAME": {abheesh123456
+      "HEROKU_APP_NAME": {
         "description": "Heroku app name, same as above entered",
         "required": true
       },
-      "HEROKU_API_KEY": {d97e66ab-b318-4592-960a-1d44a55c535f
+      "HEROKU_API_KEY": {
         "description": "Heroku account api key, https://dashboard.heroku.com/account",
         "required": true
       },
-      "ALIVE_MESSAGE": {🥰
+      "ALIVE_MESSAGE": {
 			"description": "Add a message here which you want to see when typing .alive",
 			"required": true,
 			"value": "Hey Guys Toxic Alexa V3 Is Still Alive"
@@ -27,7 +27,7 @@
 			"required": true,
 			"value": "TurboMods"
 		},
-		"OWNER_NUMBER": {918137093395
+		"OWNER_NUMBER": {916380260672
 			"description": "Add the owner number here",
 			"required": true,
 			"value": "916380260672"
@@ -62,7 +62,7 @@
 			"required": true,
 			"value": "https://telegra.ph/file/a90b046455ab6c7e089e3.jpg"
 		},
-		"BOT_NAME": {DFA MR JOKER
+		"BOT_NAME": {
 			"description": "Enter Your Bot Name",
 			"required": true,
 			"value": "Toxic-Alexa_V3"
@@ -72,12 +72,12 @@
 			"required": true,
 			"value": "Turbo Mods"
 		},
-		"THEME_EMOJI": {🥰
+		"THEME_EMOJI": {
 			"description": "Enter A Emoji For Menu And Other Theme",
 			"required": true,
 			"value": "✨"
 		},
-		"REACT_EMOJI": {🙏
+		"REACT_EMOJI": {
 			"description": "Enter A Emoji For Menu React",
 			"required": true,
 			"value": "🇮🇳"
@@ -85,7 +85,7 @@
 		"OWNER_TAG": {OK
 			"description": "Enter Your Number For Owner Tag",
 			"required": true,
-			"value": "918137093395"
+			"value": "916380260672"
 		},
 		"DOCUMENT1": {
 			"description": "If You Dont known What Is This Then Don't Change This",
